@@ -1,0 +1,7 @@
+C:\Users\Angel\Desktop\prueba\Fundamentos de algoritmos\Semana 3\bin\Debug\Semana 3.exe.config
+C:\Users\Angel\Desktop\prueba\Fundamentos de algoritmos\Semana 3\bin\Debug\Semana 3.exe
+C:\Users\Angel\Desktop\prueba\Fundamentos de algoritmos\Semana 3\bin\Debug\Semana 3.pdb
+C:\Users\Angel\Desktop\prueba\Fundamentos de algoritmos\Semana 3\obj\Debug\Semana 3.csproj.AssemblyReference.cache
+C:\Users\Angel\Desktop\prueba\Fundamentos de algoritmos\Semana 3\obj\Debug\Semana 3.csproj.CoreCompileInputs.cache
+C:\Users\Angel\Desktop\prueba\Fundamentos de algoritmos\Semana 3\obj\Debug\Semana 3.exe
+C:\Users\Angel\Desktop\prueba\Fundamentos de algoritmos\Semana 3\obj\Debug\Semana 3.pdb
